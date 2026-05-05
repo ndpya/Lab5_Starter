@@ -1,6 +1,13 @@
 # Lab 5 - Starter
 Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
 
+## Lab Partners
+Natalin Duangpanya (completed individually)
+
+## Link to GitHub pages site
+[Expose](https://ndpya.github.io/Lab5_Starter/expose.html)
+[Explore](https://ndpya.github.io/Lab5_Starter/explore.html)
+
 ## 1) Would you use a unit test to test the “message” feature of a messaging application? Why or why not? For this question, assume the “message” feature allows a user to write and send a message to another user.
 
 You would not a unit test to test the "message" feature of a messaging application. This feature should be split into multiple (categories of) unit tests, for instance, one that checks that a user can write a message, another that checks if the message can be sent succesfully, another if the reciever is able to recieve the message, and other tests for any edge cases. 
